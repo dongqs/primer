@@ -1,4 +1,4 @@
-#include "str_blob_ptr.h"
+#include "str_blob.h"
 
 using namespace std;
 
